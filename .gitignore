@@ -1,0 +1,22 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Adobe
+*.tmp
+
+# Figma
+*.fig.autosave
+
+# Photoshop
+*.psb
+
+# Temporary exports
+exports/
+cache/
+
+# VS Code
+.vscode/
+
+# Node
+node_modules/
